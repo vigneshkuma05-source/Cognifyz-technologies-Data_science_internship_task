@@ -136,4 +136,4 @@ pip install -r requirements.txt
 
         Level3Preprocessing.ipynb
 
-Cognifyz Technologies Data science internship. One of the best internship in Company. Thank you for this opportunity.
+Cognifyz Technologies Data science internship. One of the best internship . Thank you for this opportunity.
